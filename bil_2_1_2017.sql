@@ -1,7 +1,7 @@
 /*Билет 2.1_2017 Создать запрос для получения списка городов и отделов, расположенных в них. Результаты представить в виде:
 
-Город	    Отдел
-Seattle	    Accounting (20), Administration(3),Benefits(5), Construction(8),Control And Credit(4)
+Город           Отдел
+Seattle         Accounting (20), Administration(3),Benefits(5), Construction(8),Control And Credit(4)
                 5 отделов,40 сотрудников
 Toronto         Marketing(7)
                 1 отдел, 7 сотрудников
